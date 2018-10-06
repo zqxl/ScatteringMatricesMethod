@@ -13,6 +13,8 @@ b=[0,1;2,1]
 c=[2,1;0,1];
 calculateS(a,b)
 
+
+
 function S=calculateS(varargin)
 len = length(varargin);
 S=varargin{1};
