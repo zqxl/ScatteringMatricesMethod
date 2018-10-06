@@ -19,3 +19,4 @@ S=varargin{1};
 for i=2:len
     S = S * varargin{i};
 end
+
